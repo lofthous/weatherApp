@@ -35,3 +35,6 @@ I would have split the UI in to 2 pages using page view if I hade more time and 
 
 I included cocoapods but no pods I was hoping to include  (https://cocoapods.org/pods/Mockingjay) to be able to create test with stubbed APIs
 
+Build
+If I was building a real prject I would manage this through Fastlane where iOS certificates and add https://github.com/orta/cocoapods-keys to manage the API key. 
+
